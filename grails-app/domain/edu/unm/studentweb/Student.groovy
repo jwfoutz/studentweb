@@ -9,6 +9,7 @@ class Student {
     Date updatedDate
     String notes
 
+    // simple change
     static constraints = {
     }
 }
